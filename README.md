@@ -1,6 +1,8 @@
 # sms-spam
 
-The **`sms-spam-classifier.ipynb`** file contains the code for training a machine learning model to classify text messages as either spam or not spam. It outlines the entire pipeline for preprocessing text data, transforming it into numerical features using a Term Frequency-Inverse Document Frequency (TF-IDF) vectorizer, and training the model. 
+The **`sms-spam-classifier.ipynb`** file contains the code for training a machine learning model to classify text messages as either spam or not spam.
+
+It outlines the entire pipeline for preprocessing text data, transforming it into numerical features using a **`Term Frequency-Inverse Document Frequency (TF-IDF) vectorizer`**, and training the model. 
 
 This file saves the trained model and vectorizer as **`model.pkl`** and **`vectorizer.pkl`**. 
 
